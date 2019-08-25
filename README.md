@@ -1,7 +1,6 @@
-# csc413-TankGame
+# Tank Game
 
 ## Student Name : Jimmy Kwan
-## Student ID : 916036828
 
 IDE: IntelliJ
 Java Version: 11.0.2
